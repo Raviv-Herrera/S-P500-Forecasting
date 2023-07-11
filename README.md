@@ -1,2 +1,2 @@
 # S-P500-Forecasting
-Forecasting of S&amp;P500 with several ML\DL methods 
+Forecasting of S&amp;P500 with several ML\DL models 
