@@ -1,2 +1,2 @@
-# S-P500-Forecasting
+# Standard-and-Poor-s-500-Forecasting
 Forecasting of S&amp;P500 with several ML\DL models 
